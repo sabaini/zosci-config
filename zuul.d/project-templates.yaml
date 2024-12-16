@@ -166,8 +166,6 @@
       The default set of zed functional test jobs for the OpenStack Charms
     check:
       jobs:
-        - kinetic-zed:
-            voting: false
         - jammy-zed
         - jammy-yoga
 - project-template:
